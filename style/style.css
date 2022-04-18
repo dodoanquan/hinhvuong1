@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family:'Arial';
+	font-size: 14px;
+	color: #000;
+	font-weight: 400;
+	background-color: #fff;
+}
+ul,ol,li{
+	list-style: none;
+}
+label{
+	font-weight: 700;
+}
+a{
+	text-decoration:none;
+	color:#7f8c8d;
+}
+.container{
+	max-width: 1230px;
+	width: 100%;
+	margin: 0 auto;
+	padding:0 15px;
+}
